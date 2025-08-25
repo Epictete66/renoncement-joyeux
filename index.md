@@ -1,8 +1,11 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Renoncement Joyeux
 
-# L'Échappée Belle
+Renoncement Joyeux est un **blog personnel** qui n'a qu'un objectif, partager mon expérience, convaincu que l'intime est une porte d'entrée sur l'universel.
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Ici, je vais parler de renoncement... joyeux ! Quoi de plus antinomique que ces deux termes, me direz-vous ?
+Nous allons en parler. 
